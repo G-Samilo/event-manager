@@ -1,0 +1,27 @@
+{
+  "name": "event-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-Samilo/event-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/G-Samilo/event-manager/issues"
+  },
+  "homepage": "https://github.com/G-Samilo/event-manager#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "joi": "^18.3.0",
+    "sequelize": "^6.37.8",
+    "sqlite3": "^6.0.1"
+  }
+}
